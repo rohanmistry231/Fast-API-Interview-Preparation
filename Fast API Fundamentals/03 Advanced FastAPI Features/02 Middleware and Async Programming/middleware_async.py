@@ -1,4 +1,4 @@
-%% middleware_async.py
+# %% middleware_async.py
 # Setup: pip install fastapi uvicorn requests matplotlib pandas
 from fastapi import FastAPI, Request
 import uvicorn

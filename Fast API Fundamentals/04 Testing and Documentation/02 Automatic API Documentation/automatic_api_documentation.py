@@ -1,4 +1,4 @@
-%% automatic_api_documentation.py
+# %% automatic_api_documentation.py
 # Setup: pip install fastapi uvicorn requests matplotlib pandas
 from fastapi import FastAPI
 import uvicorn

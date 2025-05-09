@@ -1,4 +1,4 @@
-%% request_visualization.py
+# %% request_visualization.py
 # Setup: pip install fastapi uvicorn requests matplotlib pandas
 from fastapi import FastAPI, HTTPException
 import uvicorn

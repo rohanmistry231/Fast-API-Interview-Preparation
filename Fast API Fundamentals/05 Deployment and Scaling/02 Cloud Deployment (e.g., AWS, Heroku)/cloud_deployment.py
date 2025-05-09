@@ -1,4 +1,4 @@
-%% cloud_deployment.py
+# %% cloud_deployment.py
 # Setup: pip install fastapi uvicorn requests matplotlib pandas
 from fastapi import FastAPI
 import uvicorn

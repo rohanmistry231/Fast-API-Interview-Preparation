@@ -1,4 +1,4 @@
-%% scalability_metrics_visualization.py
+# %% scalability_metrics_visualization.py
 # Setup: pip install fastapi uvicorn requests matplotlib pandas
 from fastapi import FastAPI
 import uvicorn

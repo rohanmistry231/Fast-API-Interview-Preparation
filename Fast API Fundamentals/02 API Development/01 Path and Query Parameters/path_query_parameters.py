@@ -1,4 +1,4 @@
-%% path_query_parameters.py
+# %% path_query_parameters.py
 # Setup: pip install fastapi uvicorn requests matplotlib pandas
 from fastapi import FastAPI
 import uvicorn

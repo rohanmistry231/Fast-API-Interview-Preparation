@@ -1,4 +1,4 @@
-%% data_validation_pydantic.py
+# %% data_validation_pydantic.py
 # Setup: pip install fastapi uvicorn pydantic requests matplotlib pandas
 from fastapi import FastAPI
 from pydantic import BaseModel, EmailStr

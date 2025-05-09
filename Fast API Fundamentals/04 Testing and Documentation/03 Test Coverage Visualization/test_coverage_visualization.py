@@ -1,4 +1,4 @@
-%% test_coverage_visualization.py
+# %% test_coverage_visualization.py
 # Setup: pip install fastapi uvicorn pytest pytest-cov requests matplotlib pandas
 from fastapi import FastAPI
 from fastapi.testclient import TestClient

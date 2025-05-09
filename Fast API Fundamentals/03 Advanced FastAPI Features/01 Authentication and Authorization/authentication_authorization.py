@@ -1,4 +1,4 @@
-%% authentication_authorization.py
+# %% authentication_authorization.py
 # Setup: pip install fastapi uvicorn pydantic python-jose[cryptography] passlib[bcrypt] requests matplotlib pandas
 from fastapi import FastAPI, Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordBearer

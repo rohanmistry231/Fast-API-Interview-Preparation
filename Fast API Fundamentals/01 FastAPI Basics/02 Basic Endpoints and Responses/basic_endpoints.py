@@ -1,4 +1,4 @@
-%% basic_endpoints.py
+# %% basic_endpoints.py
 # Setup: pip install fastapi uvicorn requests matplotlib pandas
 from fastapi import FastAPI, HTTPException
 import uvicorn

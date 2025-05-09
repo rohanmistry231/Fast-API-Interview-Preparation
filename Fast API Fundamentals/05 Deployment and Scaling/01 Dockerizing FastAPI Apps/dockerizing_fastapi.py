@@ -1,4 +1,4 @@
-%% dockerizing_fastapi.py
+# %% dockerizing_fastapi.py
 # Setup: pip install fastapi uvicorn requests matplotlib pandas
 from fastapi import FastAPI
 import uvicorn
